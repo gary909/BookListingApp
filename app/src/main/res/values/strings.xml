@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Book Searcher</string>
+    <string name="search">Insert a search term </string>
+    <string name="button_name">Search</string>
+    <!-- Title text for the empty view -->
+    <string name="empty_view_title_text">Get Searching For Books...</string>
+    <!-- Subtitle text for the empty view that informs the user how to populate the list -->
+    <string name="empty_view_subtitle_text">Use the search box to look for books!</string>
+</resources>
